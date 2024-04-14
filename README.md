@@ -68,6 +68,7 @@ Step 3: Build a Visualization
 
 Conclusion:
 This project will provide users with a powerful tool to explore and understand average salaries by state and job type in the United States. The data can be used to make informed decisions about career planning, salary negotiations, and other financial matters.
+<img width="959" alt="image" src="https://github.com/vrushm89/US_Salary_Analysis_Dashboard/assets/166630143/15423205-0ac3-4d6a-bf40-fb9ee0a9bd8c">
 
 
 
